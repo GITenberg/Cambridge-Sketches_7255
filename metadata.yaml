@@ -1,0 +1,28 @@
+_repo: Cambridge-Sketches_7255
+creator:
+  author:
+    agent_name: Stearns, Frank Preston
+    birthdate: 1846
+    deathdate: 1917
+    gutenberg_agent_id: '2362'
+    url: http://www.gutenberg.org/2009/agents/2362
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7255'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'United States -- Biography'
+- !lcsh 'Cambridge (Mass.) -- Biography'
+tableOfContents: The close of the war -- Francis J. Child -- Longfellow -- Lowell
+  -- C. P. Cranch -- T. G. Appleton -- Doctor Holmes -- Frank Bird and the Bird Club
+  -- Sumner -- Chevalier Howe -- The war governor -- The colored regiments -- Emerson's
+  tribute to George L. Stearns -- Elizur Wright -- Dr. W. T. G. Morton -- Leaves from
+  a Roman diary -- Centennial contributions.
+title: Cambridge Sketches
+url: http://www.gutenberg.org/ebooks/7255
